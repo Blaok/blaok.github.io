@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yuze Chi</title>
+    <link>https://about.blaok.me/publication_types/1/</link>
+      <atom:link href="https://about.blaok.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2021 Yuze Chi</copyright><lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://about.blaok.me/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating SSSP for Power-Law Graphs</title>
+      <link>https://about.blaok.me/publication/splag/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/splag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RapidStream: Parallel Physical Implementation of FPGA HLS Designs</title>
+      <link>https://about.blaok.me/publication/rapidstream/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/rapidstream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://about.blaok.me/publication/sextans/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/sextans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending High-Level Synthesis for Task-Parallel Programs</title>
+      <link>https://about.blaok.me/publication/tapa/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/tapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoBridge: Coupling Coarse-Grained Floorplanning and Pipelining for High-Frequency HLS Design on Multi-Die FPGAs</title>
+      <link>https://about.blaok.me/publication/autobridge/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/autobridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HBM Connect: High-Performance HLS Interconnect for FPGA HBM</title>
+      <link>https://about.blaok.me/publication/hbm-connect/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/hbm-connect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Computation Reuse for Stencil Accelerators</title>
+      <link>https://about.blaok.me/publication/soda-cr/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/soda-cr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Optimization of the Implicit Broadcasts in FPGA HLS to Improve Maximum Frequency</title>
+      <link>https://about.blaok.me/publication/hls-timing/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/hls-timing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HeteroHalide: From Image Processing DSL to Efficient FPGA Acceleration</title>
+      <link>https://about.blaok.me/publication/heterohalide/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/heterohalide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing</title>
+      <link>https://about.blaok.me/publication/heterocl/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/heterocl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Cycle-Accurate Simulator for High-Level Synthesis</title>
+      <link>https://about.blaok.me/publication/flash/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/flash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SODA: Stencil with Optimized Dataflow Architecture</title>
+      <link>https://about.blaok.me/publication/soda/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/soda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForeGraph: Exploring Large-scale Graph Processing on Multi-FPGA Architecture</title>
+      <link>https://about.blaok.me/publication/foregraph/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/foregraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGP: Graph Processing Framework on FPGA A Case Study of Breadth-First Search</title>
+      <link>https://about.blaok.me/publication/fpgp/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/fpgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NXgraph: An Efficient Graph Processing System on a Single Machine</title>
+      <link>https://about.blaok.me/publication/nxgraph/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/nxgraph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

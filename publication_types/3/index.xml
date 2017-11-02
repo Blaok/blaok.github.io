@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Yuze Chi</title>
+    <link>https://about.blaok.me/publication_types/3/</link>
+      <atom:link href="https://about.blaok.me/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2021 Yuze Chi</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://about.blaok.me/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>When HLS Meets FPGA HBM: Benchmarking and Bandwidth Optimization</title>
+      <link>https://about.blaok.me/publication/hbm-bench/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/hbm-bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Optimal Microarchitecture for Stencil Computation with Data Reuse and Fine-Grained Parallelism</title>
+      <link>https://about.blaok.me/publication/supo/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/supo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

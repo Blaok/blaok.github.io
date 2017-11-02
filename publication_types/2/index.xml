@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Yuze Chi</title>
+    <link>https://about.blaok.me/publication_types/2/</link>
+      <atom:link href="https://about.blaok.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2021 Yuze Chi</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://about.blaok.me/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>FLASH: Fast, ParalleL, and Accurate Simulator for HLS</title>
+      <link>https://about.blaok.me/publication/flash-journal/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/flash-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphH: A Processing-in-Memory Architecture for Large-scale Graph Processing</title>
+      <link>https://about.blaok.me/publication/graphh/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/graphh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test–Retest Reliability of Graph Metrics in High-resolution Functional Connectomics: A Resting-State Functional MRI Study</title>
+      <link>https://about.blaok.me/publication/mri/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/mri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
