@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Yuze Chi</title>
+    <link>https://about.blaok.me/publication_types/7/</link>
+      <atom:link href="https://about.blaok.me/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2023 Yuze Chi</copyright><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://about.blaok.me/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Design Automation and Optimization for Memory-Bound Application Accelerators</title>
+      <link>https://about.blaok.me/publication/dissertation/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

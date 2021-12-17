@@ -4,27 +4,102 @@
   
   <url>
     <loc>https://about.blaok.me/publication_types/1/</loc>
-    <lastmod>2021-12-16T23:46:12-08:00</lastmod>
+    <lastmod>2023-05-16T21:14:16-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://about.blaok.me/publication/splag/</loc>
-    <lastmod>2021-12-16T23:46:12-08:00</lastmod>
+    <loc>https://about.blaok.me/publication/fccm23-pasta/</loc>
+    <lastmod>2023-05-16T21:14:16-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/publication_types/</loc>
-    <lastmod>2021-12-16T23:46:12-08:00</lastmod>
+    <lastmod>2023-05-16T21:14:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication_types/2/</loc>
+    <lastmod>2023-05-09T22:12:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/trets23-rapidstream/</loc>
+    <lastmod>2023-05-08T22:31:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/trets23-sasa/</loc>
+    <lastmod>2023-05-09T22:12:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/fpga23-callipepla/</loc>
+    <lastmod>2023-05-08T22:36:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/cacm22-democratizing/</loc>
+    <lastmod>2023-05-08T22:24:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/tcad22-taro/</loc>
+    <lastmod>2023-05-08T22:17:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/dac22-serpens/</loc>
+    <lastmod>2023-05-08T22:05:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/icassp22-pyxis/</loc>
+    <lastmod>2023-05-08T22:00:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/cicc22-streamgcn/</loc>
+    <lastmod>2023-05-08T21:55:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/splag/</loc>
+    <lastmod>2022-12-08T22:09:58-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/publication/rapidstream/</loc>
-    <lastmod>2021-12-16T23:38:23-08:00</lastmod>
+    <lastmod>2022-04-25T19:19:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/publication/sextans/</loc>
     <lastmod>2021-12-16T23:41:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication_types/7/</loc>
+    <lastmod>2023-05-08T22:49:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/dissertation/</loc>
+    <lastmod>2023-05-08T22:49:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication_types/3/</loc>
+    <lastmod>2023-05-08T22:58:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/recut/</loc>
+    <lastmod>2023-05-08T22:55:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.blaok.me/publication/spa-gcn/</loc>
+    <lastmod>2023-05-08T22:58:32-07:00</lastmod>
   </url>
   
   <url>
@@ -34,17 +109,12 @@
   
   <url>
     <loc>https://about.blaok.me/publication/autobridge/</loc>
-    <lastmod>2021-03-02T13:00:57-08:00</lastmod>
+    <lastmod>2022-04-25T19:19:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/publication/hbm-connect/</loc>
     <lastmod>2021-03-02T13:00:28-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://about.blaok.me/publication_types/3/</loc>
-    <lastmod>2021-07-12T17:25:15-07:00</lastmod>
   </url>
   
   <url>
@@ -59,17 +129,12 @@
   
   <url>
     <loc>https://about.blaok.me/publication/hls-timing/</loc>
-    <lastmod>2020-12-19T22:09:41-08:00</lastmod>
+    <lastmod>2022-04-25T19:19:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/publication/heterohalide/</loc>
     <lastmod>2020-02-24T14:00:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://about.blaok.me/publication_types/2/</loc>
-    <lastmod>2021-10-27T19:48:47-07:00</lastmod>
   </url>
   
   <url>
@@ -79,7 +144,7 @@
   
   <url>
     <loc>https://about.blaok.me/publication/heterocl/</loc>
-    <lastmod>2019-09-17T13:42:33-07:00</lastmod>
+    <lastmod>2022-04-25T19:19:15-07:00</lastmod>
   </url>
   
   <url>
@@ -124,12 +189,12 @@
   
   <url>
     <loc>https://about.blaok.me/authors/blaok/</loc>
-    <lastmod>2021-12-16T23:27:48-08:00</lastmod>
+    <lastmod>2023-05-08T21:42:28-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.blaok.me/authors/</loc>
-    <lastmod>2021-12-16T23:27:48-08:00</lastmod>
+    <lastmod>2023-05-08T21:42:28-07:00</lastmod>
   </url>
   
   <url>

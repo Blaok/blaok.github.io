@@ -5,12 +5,52 @@
     <link>https://about.blaok.me/publication_types/1/</link>
       <atom:link href="https://about.blaok.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2021 Yuze Chi</copyright><lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2023 Yuze Chi</copyright><lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://about.blaok.me/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>PASTA: Programming and Automation Support for Scalable Task-Parallel HLS Programs on Modern Multi-Die FPGAs</title>
+      <link>https://about.blaok.me/publication/fccm23-pasta/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/fccm23-pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver</title>
+      <link>https://about.blaok.me/publication/fpga23-callipepla/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/fpga23-callipepla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication</title>
+      <link>https://about.blaok.me/publication/dac22-serpens/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/dac22-serpens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PYXIS: An Open-Source Performance Dataset Of Sparse Accelerators</title>
+      <link>https://about.blaok.me/publication/icassp22-pyxis/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/icassp22-pyxis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing</title>
+      <link>https://about.blaok.me/publication/cicc22-streamgcn/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/cicc22-streamgcn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerating SSSP for Power-Law Graphs</title>

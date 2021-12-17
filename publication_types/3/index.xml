@@ -5,12 +5,28 @@
     <link>https://about.blaok.me/publication_types/3/</link>
       <atom:link href="https://about.blaok.me/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2021 Yuze Chi</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017--2023 Yuze Chi</copyright><lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://about.blaok.me/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://about.blaok.me/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Recut: a Concurrent Framework for Sparse Reconstruction of Neuronal Morphology</title>
+      <link>https://about.blaok.me/publication/recut/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/recut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPA-GCN: Efficient and Flexible GCN Accelerator with an Application for Graph Similarity Computation</title>
+      <link>https://about.blaok.me/publication/spa-gcn/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://about.blaok.me/publication/spa-gcn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When HLS Meets FPGA HBM: Benchmarking and Bandwidth Optimization</title>
